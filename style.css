@@ -1,0 +1,24 @@
+body{
+    background: #5C80BC;
+    padding:100px;
+}
+.kotak{
+    background:#4D5061;
+    margin:auto;
+    width:300px;
+    padding:40px 0px 20px 0px;
+
+}
+.tombol{
+    width:60px;
+    background:#46de4b;
+    border:none;
+    box-shadow:none;
+    margin:10px;
+}
+.bil{
+    width:60%;
+    height:20px;
+    margin:5px;
+    padding:5px 0px 5px 0px;
+}
